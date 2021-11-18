@@ -1,2 +1,2 @@
 # Movie-Recommeder-Using-K-Nearest-Neighbors
-Recommend a movie based using K-Nearest Neighbors algorithm
+This is a python based Machine Learning project to recommend a movie using K-Nearest Neighbors algorithm
